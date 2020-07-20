@@ -32,7 +32,9 @@ Step 1: Create account
 
 Step 2: Create a cluster
 
-Step 3: There you will find connect click on it:
+Step 3: Don't forget to install mongoose
+
+Step 4: There you will find connect click on it:
 
 - click add ip to whitelist just click on button ip will be taken automatically
 
